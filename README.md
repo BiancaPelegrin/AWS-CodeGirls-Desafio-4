@@ -36,10 +36,8 @@ Para concluir este desafio, siga os passos abaixo:
 
 ## 🔗 Recursos Úteis
 
-- 📁 Material Complementar: `Implementando sua Primeira Stack com AWS CloudFormation.zip`
-- 📘 [Documentação Oficial AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcomethub.comBook: Formação GitHub Certification](https://github.com/Digitalttps://docs.github.com/
-- ✍️ https://guides.github.com/features/mastering-markdown/
-
-
-
+- 📁 **Material Complementar:** `Implementando sua Primeira Stack com AWS CloudFormation.zip`
+- 📘 [Documentação Oficial AWS CloudFormationation/latest/UserGuide/Welcome.html
+- 🧠 [Formação GitHub CertificationvationOne/GitHub-Certification
+- 📚 [Documentação do GitHub](https://docs.github.comno GitHub](https://guides.github.com/features/mastering-markdow
 
