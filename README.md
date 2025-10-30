@@ -1,75 +1,52 @@
 # AWS-CodeGirls-Desafio-4
-Repositório destinado ao projeto 3 - sobre AWS CloudFormation do Bootcamp DIO AWS 2025 
 
-
-
-
-
-
-
-# 💻 Desafio AWS CloudFormation 
-
-Este repositório documenta minha participação no desafio de **Infraestrutura como Código (IaC)** utilizando **AWS CloudFormation**, como parte do **Bootcamp Santander Code Girls 2025**.
 
 ---
 
-## 🧠 O que é AWS CloudFormation?
+### 🚀 Desafio: Implementando sua Primeira Stack com AWS CloudFormation
 
-O **AWS CloudFormation** é um serviço da Amazon Web Services que permite **criar e gerenciar recursos de infraestrutura por meio de código**.
-Utilizando templates em **YAML** ou **JSON**, é possível definir e automatizar toda a estrutura de um ambiente na nuvem de forma segura e escalável.
-
----
-
-## 🎯 Objetivos do Desafio
-
-* Criar uma **stack na AWS** utilizando CloudFormation
-* Utilizar **templates declarativos** para provisionar recursos
-* **Documentar** as etapas e aprendizados
-* **Publicar o projeto** no GitHub com README estruturado
+Este repositório foi criado como parte do desafio proposto pela DIO, com o objetivo de aplicar os conhecimentos adquiridos sobre infraestrutura como código utilizando o AWS CloudFormation. Aqui você encontrará anotações, insights e arquivos que documentam minha experiência prática durante a implementação da stack.
 
 ---
 
-## ⚙️ Recursos Provisionados
+### 📚 Objetivo do Desafio
 
-* **Instância EC2** – baseada em template pronto para testes
-* **Servidor Apache** – configurado para rodar um webservice simples
-* **Firewall (Security Group)** – liberando apenas a porta 80 (HTTP)
-* **Grupo de usuários IAM** – para controle de permissões
+O desafio consiste em:
 
----
+Implementar uma stack utilizando o AWS CloudFormation.
+Documentar o processo técnico de forma clara e estruturada.
+Utilizar o GitHub como ferramenta de compartilhamento e versionamento.
 
-## 📈 Benefícios da Automação com CloudFormation
+--- 
 
-* **Consistência:** ambientes replicáveis com precisão
-* **Velocidade:** criação de recursos em minutos
-* **Controle de versão:** templates versionados no Git
-* **Escalabilidade:** fácil atualização de infraestruturas complexas
 
----
+### 🧠 O que aprendi
 
-## 📊 Comparativo: AWS CloudFormation vs Terraform
+Durante a execução do desafio, aprofundei meu conhecimento em:
 
-| Característica              | AWS CloudFormation                        | Terraform                              |
-| --------------------------- | ----------------------------------------- | -------------------------------------- |
-| **Provedor**                | Exclusivo da AWS                          | Multicloud (AWS, Azure, GCP etc.)      |
-| **Linguagem**               | YAML ou JSON                              | HCL (HashiCorp Configuration Language) |
-| **Gerenciamento de estado** | Automático pela AWS                       | Manual ou remoto                       |
-| **Integração com AWS**      | Nativa e profunda                         | Boa, via APIs externas                 |
-| **Custos**                  | Gratuito (paga-se pelos recursos criados) | Gratuito (open-source)                 |
-| **Curva de aprendizado**    | Simples para usuários AWS                 | Mais flexível, exige mais configuração |
+Conceitos fundamentais de infraestrutura como código (IaC).
+Estrutura e sintaxe de templates do AWS CloudFormation.
+Criação e gerenciamento de recursos AWS via CloudFormation.
+Boas práticas de documentação técnica no GitHub.
+e criação da stack estão organizadas na pasta 
 
 ---
 
-## ✅ Conclusão
+### 📌 Recursos Utilizados
 
-Esse desafio foi essencial para **consolidar os conceitos de IaC** e reforçar a importância da **automação na nuvem**.
-Além disso, a **documentação clara** e o uso do **GitHub como portfólio técnico** ajudam a dar visibilidade aos projetos desenvolvidos.
+AWS CloudFormation - Documentação Oficial
+GitHub Quick Start
+GitBook: Formação GitHub Certification
+Guia de Markdown no GitHub
 
 ---
 
-## 📚 Links Úteis
+### ✅ Conclusão
 
-🔗 [Templates oficiais do AWS CloudFormation](https://aws.amazon.com/pt/cloudformation/resources/templates/)
+Este desafio foi uma excelente oportunidade para consolidar os conceitos de IaC e praticar a criação de stacks com AWS CloudFormation. Além disso, reforçou a importância da documentação técnica como parte essencial do processo de desenvolvimento.
+
+
+
 
 
 
