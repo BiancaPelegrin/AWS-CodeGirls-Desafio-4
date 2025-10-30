@@ -1,40 +1,60 @@
 # AWS-CodeGirls-Desafio-4
 
----
-## 📚 Entendendo o Desafio
 
-Este laboratório tem como objetivo implementar sua **primeira Stack** utilizando **AWS CloudFormation**. A proposta é aplicar os conhecimentos adquiridos durante as aulas e documentar toda a experiência, criando um material de apoio útil para estudos futuros e possíveis implementações.
+ # 🚀 Desafio DIO – AWS CloudFormation
 
-----
-
-## 🎯 Objetivos de Aprendizagem
-
-Ao concluir este desafio, você será capaz de:
-
-- Aplicar os conceitos aprendidos em um ambiente prático;
-- Documentar processos técnicos de forma clara e estruturada;
-- Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
+Este repositório apresenta minha participação no **Bootcamp Santander Code Girls 2025**, promovido pela **DIO (Digital Innovation One)**.  
+O desafio teve como foco a criação da **primeira Stack** utilizando **AWS CloudFormation**, aplicando na prática os conceitos de **Infraestrutura como Código (IaC)** e documentando cada etapa do processo.
 
 ---
 
-## ✅ Entrega do Desafio
+## 📌 Entendendo o Desafio
 
-Para concluir este desafio, siga os passos abaixo:
+O principal objetivo foi compreender e aplicar a automação de recursos na nuvem AWS por meio do **CloudFormation**, utilizando **templates em YAML e JSON**.  
+As atividades desenvolvidas incluíram:
 
-1. **Assista a todas as vídeo-aulas**  
-   Não pule nenhuma etapa! As aulas contêm informações essenciais para o sucesso do seu projeto.
-
-2. **Crie um repositório público no GitHub** contendo:
-   - Um arquivo `README.md` detalhado com suas anotações e insights;
-   - Quaisquer arquivos adicionais relevantes para documentar sua experiência;
-   - (Opcional) Capturas de tela organizadas em uma pasta `/images`.
-
-3. **Envie o link do seu repositório e uma breve descrição** clicando no botão **“Entregar Projeto”** na plataforma da DIO.
+- Criação de uma Stack funcional na AWS;  
+- Definição e provisionamento de recursos automatizados;  
+- Registro das etapas e aprendizados obtidos;  
+- Organização do projeto seguindo boas práticas de documentação técnica.
 
 ---
 
+## ⚙️ Recursos Provisionados
 
-## 🔗 Recursos Úteis
+Durante o desafio, foram criados e configurados os seguintes recursos com o **AWS CloudFormation**:
 
-- 📁 [AWS CloudFormation - Guia de Início Rápido](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/gettingstarted.walkthrough.html)
+- **EC2 Instance (YAML/JSON pronto)**  
+  Instância criada a partir de um modelo base, utilizada para testes e validação de infraestrutura.
 
+- **Apache Web Server**  
+  Template configurado para inicializar automaticamente um servidor Apache, permitindo acesso via HTTP.
+
+- **Web Server com Firewall**  
+  Configuração de regras de segurança (**Security Group**) liberando apenas a porta 80 (HTTP).
+
+- **User Group (IAM)**  
+  Criação de um grupo de usuários no **IAM** para controle de permissões e gerenciamento de políticas de acesso.
+
+---
+
+## 🧠 Objetivos de Aprendizagem
+
+Ao concluir o desafio, desenvolvi habilidades práticas em:
+
+- 🚀 Automação e provisionamento de infraestrutura com **AWS CloudFormation**;  
+- 🧩 Organização e documentação de projetos em nuvem;  
+- 🌐 Utilização do **GitHub** como portfólio profissional para projetos de **Cloud e DevOps**.
+
+---
+
+## ✅ Conclusão
+
+Este desafio foi essencial para fortalecer o entendimento sobre **Infraestrutura como Código (IaC)** e demonstrar o potencial do **AWS CloudFormation** para criar ambientes consistentes, escaláveis e automatizados.  
+A experiência reforçou a importância da **documentação técnica** e do uso de boas práticas em projetos voltados à computação em nuvem.
+
+---
+
+## 📚 Referência
+
+[AWS CloudFormation - Guia de Início Rápido](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/gettingstarted.walkthrough.html)
