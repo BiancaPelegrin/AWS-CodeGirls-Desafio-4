@@ -11,7 +11,6 @@ Este repositório foi criado como parte do desafio proposto pela DIO, com o obje
 
 ### 📚 Objetivo do Desafio
 
-O desafio consiste em:
 
 Implementar uma stack utilizando o AWS CloudFormation.
 Documentar o processo técnico de forma clara e estruturada.
@@ -38,6 +37,7 @@ AWS CloudFormation - Documentação Oficial
 GitHub Quick Start
 GitBook: Formação GitHub Certification
 Guia de Markdown no GitHub
+
 
 ---
 
