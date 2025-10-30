@@ -36,8 +36,5 @@ Para concluir este desafio, siga os passos abaixo:
 
 ## 🔗 Recursos Úteis
 
-- 📁 **Material Complementar:** `Implementando sua Primeira Stack com AWS CloudFormation.zip`
-- 📘 [Documentação Oficial AWS CloudFormationation/latest/UserGuide/Welcome.html
-- 🧠 [Formação GitHub CertificationvationOne/GitHub-Certification
-- 📚 [Documentação do GitHub](https://docs.github.comno GitHub](https://guides.github.com/features/mastering-markdow
+- 📁 [AWS CloudFormation - Guia de Início Rápido](https://docs.aws.amazon.com/pt_br/AWSCloudFormation/latest/UserGuide/gettingstarted.walkthrough.html)
 
