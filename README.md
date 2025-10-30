@@ -6,7 +6,7 @@ Repositório destinado ao projeto 3 - sobre AWS CloudFormation do Bootcamp DIO A
 
 
 
-# 💻 Desafio AWS CloudFormation – Bootcamp Santander Code Girls
+# 💻 Desafio AWS CloudFormation 
 
 Este repositório documenta minha participação no desafio de **Infraestrutura como Código (IaC)** utilizando **AWS CloudFormation**, como parte do **Bootcamp Santander Code Girls 2025**.
 
