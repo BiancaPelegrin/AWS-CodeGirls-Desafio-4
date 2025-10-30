@@ -3,7 +3,6 @@
 
  # 🚀 Desafio DIO – AWS CloudFormation
 
-Este repositório apresenta minha participação no **Bootcamp Santander Code Girls 2025**, promovido pela **DIO (Digital Innovation One)**.  
 O desafio teve como foco a criação da **primeira Stack** utilizando **AWS CloudFormation**, aplicando na prática os conceitos de **Infraestrutura como Código (IaC)** e documentando cada etapa do processo.
 
 ---
