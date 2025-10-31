@@ -1,7 +1,5 @@
-# AWS-CodeGirls-Desafio-4
-
-
  # 🚀 Desafio DIO – AWS CloudFormation
+
 
 O desafio teve como foco a criação da **primeira Stack** utilizando **AWS CloudFormation**, aplicando na prática os conceitos de **Infraestrutura como Código (IaC)** e documentando cada etapa do processo.
 
